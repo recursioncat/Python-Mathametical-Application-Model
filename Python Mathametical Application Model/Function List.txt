@@ -1,0 +1,4 @@
+ load_matrix() : For Loading In Matrix
+ mat_sum(): For Adding 2 Matrices.
+ mat_diff:For Substracting 2 Matrices
+ det(): Find The Determinant of a Square Matrix
