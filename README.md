@@ -9,3 +9,6 @@ Its simple, its basic but......the work lies in parsing the equation, supports a
 
 ![EQ Logic](https://github.com/recursioncat/Python-Mathametical-Application-Model/assets/125457882/89bd162c-4c2f-431c-bb8f-ca401751a6f6)
 
+## Solve Linear Equations with Multiple Variables 
+Parse Equations, form matrices and solve like a beast
+
