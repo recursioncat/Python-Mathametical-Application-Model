@@ -12,3 +12,6 @@ Its simple, its basic but......the work lies in parsing the equation, supports a
 ## Solve Linear Equations with Multiple Variables 
 Parse Equations, form matrices and solve like a beast
 
+## Numerical Methods
+Numerical Integraton and Root Finding. Parser and Proper Readme coming soon.
+
