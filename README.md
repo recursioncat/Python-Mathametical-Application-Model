@@ -13,5 +13,6 @@ Its simple, its basic but......the work lies in parsing the equation, supports a
 Parse Equations, form matrices and solve like a beast
 
 ## Numerical Methods
-Numerical Integraton and Root Finding. Parser and Proper Readme coming soon.
+Find Root Approximation for real equations<br>
+Numerical calculus, under Construction
 
